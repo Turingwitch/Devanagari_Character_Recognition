@@ -8,8 +8,7 @@ The dataset used is Devanagari Character Dataset available at https://archive.ic
 > Total_Classes: 46\
 > Dataset Size : 92000\
 > Training Dataset Size: 78200(46 classes(1700 images in each class))\
-> Testing Dataset Size: 13800(46 classes(300 images in each class))\
-> Actual character is centered within 28 by 28 pixel, padding of 2 pixel is added on all four sides of actual character.
+> Testing Dataset Size: 13800(46 classes(300 images in each class))
 
 ## Convolutional Neural Network Model:
 
