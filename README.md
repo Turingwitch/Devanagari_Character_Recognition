@@ -15,7 +15,8 @@ The dataset used is part of the Devanagari Character Dataset available at https:
 
 >Convolutional Neural Network is implemented in keras for multiclass classification of Devanagari Handwritten Character Dataset with training accuracy 97.13% (10 epochs).\
 >For processing input Test dataset, opencv python library is used.\
->Output_TestData.xlsx excel file contains outputs for the test data set with 46 columns(for each 46 character class folders) and 300 rows(for 300 input images in each folder). Each column value represents the predicted output character corresponding to each folder in Test Data Set. 
+>Output_TestData.xlsx excel file contains outputs for the test data set with 46 columns(for each 46 character class folders) and 300 rows(for 300 input images in each folder). Each column value represents the predicted output character corresponding to each folder in Test Data Set.\
+>Unicode for "क्ष , त्र , ज्ञ" is not available so 'ksha','tra','gya' is used for representing these characters.
 
 
 
