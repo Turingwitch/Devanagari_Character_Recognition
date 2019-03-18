@@ -1,7 +1,7 @@
 # Devanagari_Character_Recognition
 The dataset used is Devanagari Character Dataset available at https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset
 
-## Data Set Information:
+## Data Set Information
 > Image Format: .png\
 > Resolution: 32 by 32 \
 > Data Type: GrayScale Image\
@@ -10,7 +10,7 @@ The dataset used is Devanagari Character Dataset available at https://archive.ic
 > Training Dataset Size: 78200(46 classes(1700 images in each class))\
 > Testing Dataset Size: 13800(46 classes(300 images in each class))
 
-## Convolutional Neural Network Model:
+## Convolutional Neural Network Model
 
 >Convolutional Neural Network is implemented in keras for multiclass classification of Devanagari Handwritten Character Dataset with training accuracy 97.02% (10 epochs).\
 >For processing input Test dataset, opencv python library is used.\
